@@ -6,3 +6,4 @@ ls -l
 echo " check disk space"
 df -hT
 echo "wel come to class today to Heydevops"
+echo "i iiiiii"

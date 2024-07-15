@@ -5,4 +5,4 @@ echo "list file content"
 ls -l
 echo " check disk space"
 df -hT
-ech "wel come to class today"
+echo "wel come to class today to Heydevops"

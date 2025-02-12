@@ -10,3 +10,4 @@ echo "i iiiiii"
 echo "complete today jenkins"
 grep -[option](pattern) filename
 option=(i,w,c,o,v,r,l,h,n,A,B,C)
+cut -d "" -f1
